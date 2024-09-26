@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
-# docsify <small>3.5</small>
+# BlueTone's Blog <small>zhiliang</small>
 
-> 一个神奇的文档网站生成器。
+> 奋斗的年纪，改变不了过去，那就改变现在。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 记录一些学习笔记
+- 记录一些生活琐事
+- 记录一些感悟
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify)
