@@ -9,7 +9,7 @@
 - 记录一些感悟
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Get Started](/README.md)
 <!-- 背景图片 -->
 <!-- ![](_media/bg.png) -->
 
